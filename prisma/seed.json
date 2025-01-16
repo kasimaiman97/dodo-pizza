@@ -1,0 +1,1502 @@
+{
+  "story": [
+    {
+      "imageUrl": "https://cdn.inappstory.ru/story/svx/ano/ede/13izqwrddyflk0frhz6hmzr/custom_cover/logo-350x440.webp?k=hAIAAAAAAAAEAQ&v=1705938122",
+      "storyItems": [
+        "https://cdn.inappstory.ru/file/h1/74/zn/7yprwvpbbfvlrcf9v2wj3b22mh.webp?k=hAIAAAAAAAAEAQ"
+      ]
+    },
+    {
+      "imageUrl": "https://cdn.inappstory.ru/story/aor/jyp/vex/cqodfyojv3woj2nql6qtfox/custom_cover/logo-350x440.webp?k=hAIAAAAAAAAEAQ&v=1977975578",
+      "storyItems": [
+        "https://cdn.inappstory.ru/file/pc/xq/th/cjz00ewkgy7dg48yiug7vbvfof.webp?k=hAIAAAAAAAAEAQ",
+        "https://cdn.inappstory.ru/file/tf/xm/fh/7sf9lmwslmxipsd5gbcyu2zaor.webp?k=hAIAAAAAAAAEAQ"
+      ]
+    },
+    {
+      "imageUrl": "https://cdn.inappstory.ru/story/sqf/8ob/8nc/wk5nfbvairmdqnol8agqhpf/custom_cover/logo-350x440.webp?k=hAIAAAAAAAAEAQ&v=1426738288",
+      "storyItems": [
+        "https://cdn.inappstory.ru/file/2u/7e/dz/vppc9bo46h3d3zmdgzoo4rwful.webp?k=hAIAAAAAAAAEAQ"
+      ]
+    },
+    {
+      "imageUrl": "https://cdn.inappstory.ru/story/awt/ayx/xjy/rdppuusij8iesfqxsosiv8d/custom_cover/logo-350x440.webp?k=hAIAAAAAAAAEAQ&v=3052799922",
+      "storyItems": [
+        "https://cdn.inappstory.ru/file/mr/jw/rn/thdoe92jnrfapkv1gk7fvzierr.webp?k=hAIAAAAAAAAEAQ",
+        "https://cdn.inappstory.ru/file/03/kv/uk/63qd8cinlcadouxrxqgkq9ggug.webp?k=hAIAAAAAAAAEAQ"
+      ]
+    },
+    {
+      "imageUrl": "https://cdn.inappstory.ru/story/qfi/dlj/8tl/mwp10cm93hy81otra8tosgs/custom_cover/logo-350x440.webp?k=hAIAAAAAAAAEAQ&v=3213004888",
+      "storyItems": [
+        "https://cdn.inappstory.ru/file/hd/g2/qf/3b88zmscue88aqvqjvcccf1xzz.webp?k=hAIAAAAAAAAEAQ",
+        "https://cdn.inappstory.ru/file/s1/fo/wt/jqrydiwspqc5zu1xy9gvlrwdz0.webp?k=hAIAAAAAAAAEAQ"
+      ]
+    },
+    {
+      "imageUrl": "https://cdn.inappstory.ru/story/wyb/vxy/4re/v1m4ng4o1deaxvtchnbz7vo/custom_cover/logo-350x440.webp?k=hAIAAAAAAAAEAQ&v=3942078754",
+      "storyItems": [
+        "https://cdn.inappstory.ru/file/kl/5w/fa/8kglwyymrvdkeu1aezyghky7rh.webp?k=hAIAAAAAAAAEAQ"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/1e66ea38e9e8443cb0f81b95d15911b3.png",
+      "name": "Black olives",
+      "price": 4.0,
+      "id": 1
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/4689f73dba504b9099cff2baf8ad0a8d.png",
+      "name": "Butter chicken",
+      "price": 4.0,
+      "id": 2
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/1037048969fe49f2839e026327eb5cba.png",
+      "name": "Cheddar",
+      "price": 4.0,
+      "id": 3
+    },
+    {
+      "name": "Grilled chicken",
+      "price": 4.0,
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/b0ab1c2cfb1e46c987490178db0a811d.png",
+      "id": 4
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/b5f65a1267ab4541929870700069c161.png",
+      "name": "Cream",
+      "price": 4.0,
+      "id": 5
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/12919ffa720f4491a5f9a13d76de51cf.png",
+      "name": "Green pepper",
+      "price": 4.0,
+      "id": 6
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/b0ab1c2cfb1e46c987490178db0a811d.png",
+      "name": "grilled chicken",
+      "price": 4.0,
+      "id": 7
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/1485b210cdd94c05927d53a8ec1c060f.png",
+      "name": "Jalapenos",
+      "price": 4.0,
+      "id": 8
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/3b8f330c5e4c4bbc9b5247d2886c3996.png",
+      "name": "Mushrooms",
+      "price": 4.0,
+      "id": 9
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/fa853588976a47ab9c1a6920e9c67081.png",
+      "name": "Onions",
+      "price": 4.0,
+      "id": 10
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/29180033b99146df9176279fce5e357f.png",
+      "name": "Beef pepperoni",
+      "price": 4.0,
+      "id": 11
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/087615975a124fceb8b1e01cffdbbe84.png",
+      "name": "Pineapple",
+      "price": 4.0,
+      "id": 12
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/15f37c4697fa4a508c5971fb06323204.png",
+      "name": "Pepper mix",
+      "price": 4.0,
+      "id": 13
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/cfb04d2310fa4743a60d1b6e56bd9ea2.png",
+      "name": "Tomatoes",
+      "price": 4.0,
+      "id": 14
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/54212fff07764746b4316b3ee85cb62b.png",
+      "name": "Turkey",
+      "price": 4.0,
+      "id": 15
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/c0a816b3a71b4001bfe4c664a34efa44.png",
+      "name": "Beef cubes",
+      "price": 4.0,
+      "id": 16
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/fe228843b53b4b03ba27ae1fe2c3bdf0.png",
+      "name": "Beef pastrami premium",
+      "price": 4.0,
+      "id": 17
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/2dc5595673ac4a0faad241ef6666100b.png",
+      "name": "Beetroot",
+      "price": 4.0,
+      "id": 18
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/7034e5af549d4884860c41e857966e46.png",
+      "name": "Mozzarella",
+      "price": 4.0,
+      "id": 19
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/b86bb9a7d6444fcea09e998b7c16c511.png",
+      "name": "Smoked beef bits",
+      "price": 4.0,
+      "id": 20
+    },
+    {
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Ingredients/0c28c056360045959c0a0ea1dccc79bb.png",
+      "name": "Togarashi",
+      "price": 4.0,
+      "id": 21
+    }
+  ],
+  "products": [
+    {
+      "name": "Winter Dodo collection 🎄",
+      "productItems": [
+        {
+          "name": "Snowflake Chocolate Rolls ",
+          "description": "Feel the magic of winter! Freshly baked rolls with Nutella and cream cheese, snowed under coconut flakes",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193962ddf8170d6a3b0608317cd429e.webp ",
+          "price": 16.0,
+          "ingredients": []
+        },
+        {
+          "name": "Value Winter Meal",
+          "description": "Pizzoni of your choice out of 25 different flavours, a side paired with a dip sauce, a drink and Dodo special Snowflacke Nutella rolls",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019397d58aed707ab4fffa7c9df94b94.webp ",
+          "price": 34.0,
+          "ingredients": []
+        },
+        {
+          "name": "Winter combo for two",
+          "description": "10\" pizza of your choice out of 25 different flavours, two drinks and Dodo special Snowflacke Nutella rolls",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019397d4cf20766e9081cf168c82d3b8.webp ",
+          "price": 54.0,
+          "ingredients": []
+        },
+        {
+          "name": "Winter combo for three",
+          "description": "12\" pizza, pick your favorite out of 25 different flavours, a large portion of side paired with double dip sauce, three drinks and Dodo special Snowflacke Nutella rolls",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019397d3b45878a28a8f63c87841cb05.webp ",
+          "price": 99.0,
+          "ingredients": []
+        },
+        {
+          "name": "Winter family combo",
+          "description": "Two 12\" pizza with 25 different flavours to pick from, two large portions of side paired with double dip sauce, a salad, two large drinks and Dodo special winter Snowflacke Nutella rolls",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019397c0dbd97408bbaac94a5cf5295f.webp ",
+          "price": 179.0,
+          "ingredients": []
+        },
+        {
+          "name": "Kids winter combo",
+          "description": "8\" Mouse Pizza for your little one, Dodo special winter Snowflacke Nutella rolls and a drink",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193aa8859e2794f8fbac0a8485e0c74.webp ",
+          "price": 35.0,
+          "ingredients": []
+        },
+        {
+          "name": "Kids mix winter meal",
+          "description": "Small half&half pizza - Margherita paired with Pepperoni, portion of side with dip sauce, Dodo special winter Snowflacke Nutella rolls and a drink",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193981c7bf67337a9ca98492c474102.webp ",
+          "price": 44.0,
+          "ingredients": []
+        },
+        {
+          "name": "Winter Pizza Master Class",
+          "description": "Celebrate the season with our limited-time Winter Pizza Wonderland Master Class! Let your little chef create a sweet holiday pizza topped with festive treats. Each child will receive a drink, stickers, a diploma, and lots of fun. Book now: 056 545 4064",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019353515f8478168550b3d105747a64.webp ",
+          "price": 39.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Deals 💰",
+      "productItems": [
+        {
+          "name": "Value Pizzoni Meal",
+          "description": "Pizzoni 6\" + Drink + Side + dip sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef5f909592b7289fd7354fff997ad8.webp ",
+          "price": 27.0,
+          "ingredients": []
+        },
+        {
+          "name": "Value Pizzoni Deal ",
+          "description": "Pizzoni  6\" + Drink",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eef0e1bbb9ab78adc58593cb3086e3.webp ",
+          "price": 25.0,
+          "ingredients": []
+        },
+        {
+          "name": "Family meal ",
+          "description": "Two 12\" pizza with 25 different flavours to pick from, two large portions of side paired with double dip sauce, a salad, two large drinks and a cheescake for dessert",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef8630a3c118a3976656650f20135d.webp ",
+          "price": 159.0,
+          "ingredients": []
+        },
+        {
+          "name": "Double Dodster meal",
+          "description": "Two Dodsters any style and two drinks",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7e213826fec2b16dde2a68922b80.webp ",
+          "price": 50.0,
+          "ingredients": []
+        },
+        {
+          "name": "Big meal for three ",
+          "description": "Any large pizza, large side and drink 1.5L, 2 dip sauces",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef47a25c01680da38d5731616804f0.webp ",
+          "price": 80.0,
+          "ingredients": []
+        },
+        {
+          "name": "Super Trio ",
+          "description": "3 medium pizzas",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef47a20f1da08f8d4ec2112c2ff89d.webp ",
+          "price": 102.0,
+          "ingredients": []
+        },
+        {
+          "name": "Just the two of us ",
+          "description": "One medium pizza and two drinks",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7e21385b2fed8b1f52fe86efd196.webp ",
+          "price": 46.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Big deals",
+      "productItems": [
+        {
+          "name": "5 large pizzas deal",
+          "description": "5 large pizzas — ideal choice for 15 people",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef9070d7046915b68924f77331b425.webp ",
+          "price": 289.0,
+          "ingredients": []
+        },
+        {
+          "name": "Mega combo for 15",
+          "description": "A selection of 5 large pizzas, 3 big sides of choice, 1 big Rolls, 3 pcs 1.5L drinks and 6 dips",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef9074bdaa34068e1e56e33be6b21d.webp ",
+          "price": 359.0,
+          "ingredients": []
+        },
+        {
+          "name": "7 large pizzas deal",
+          "description": "7 large pizzas of your choice, perfect for 20 people",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef9074ee0019e790bb1ad63ebff38c.webp ",
+          "price": 359.0,
+          "ingredients": []
+        },
+        {
+          "name": "10 large pizzas deal",
+          "description": "10 large pizza of your choice. Perfect for a group of 30",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef906fcd58a7979e8aa954227912df.webp ",
+          "price": 499.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "For Kids 👦",
+      "productItems": [
+        {
+          "name": "Kids Combo ",
+          "description": "8\" Mouse Pizza for your little one, magical sticker pack and a drink",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193af93cc8179bfa38935f5581f8e59.webp ",
+          "price": 32.0,
+          "ingredients": []
+        },
+        {
+          "name": "Kids Mix Pizza Meal",
+          "description": "Small half&half pizza - Margherita paired with Pepperoni, portion of side with dip sauce and a drink",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193af924148720a8b8bbd823a112110.webp ",
+          "price": 37.0,
+          "ingredients": []
+        },
+        {
+          "name": "Mouse Pizza",
+          "description": "Mozzarella, pizza sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef4937c1b92630a924024b84b0bfd1.webp ",
+          "price": 27.0,
+          "ingredients": []
+        },
+        {
+          "name": "Kids Mix Pizza",
+          "description": "Beef pepperoni, mozzarella, pizza sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef5040c663832390e9554de7d99cac.webp ",
+          "price": 30.0,
+          "ingredients": []
+        },
+        {
+          "name": "Kids' Cream & Cheese Pasta",
+          "description": "For little pasta lovers – a simple and yummy creamy fusilli with cheddar cheese.",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193ce303ad67586a9a1c93f3d4eab4b.webp ",
+          "price": 23.0,
+          "ingredients": []
+        },
+        {
+          "name": "Dodo Bird Toy",
+          "description": "Meet our cuddly plush Dodo bird toy! Soft, vibrant, and durable, it's the perfect 25 cm tall companion for fun adventures.",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef3b0a65571851962b2b853ac8757d.webp ",
+          "price": 89.0,
+          "ingredients": []
+        },
+        {
+          "name": "Kids’ Pizza Master Class",
+          "description": "Bring your little chef to any Dodo Pizza store for a fun, all-inclusive pizza-making master class! Each kid creates their own pizza with a choice of toppings and gets a drink, stickers, a coloring page, and a diploma. Book now: 056 545 4064",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef7fdaa1b9e1499e8c8861cd5bc67f.webp ",
+          "price": 39.0,
+          "ingredients": []
+        },
+        {
+          "name": "Winter Pizza Master Class",
+          "description": "Celebrate the season with our limited-time Winter Pizza Wonderland Master Class! Let your little chef create a sweet holiday pizza topped with festive treats. Each child will receive a drink, stickers, a diploma, and lots of fun. Book now: 056 545 4064",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019353515f8478168550b3d105747a64.webp ",
+          "price": 39.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Must try! 🤩",
+      "productItems": [
+        {
+          "name": "Half & Half pizza",
+          "description": "Two flavors combined in one pizza",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef0c84a87698c6823e52adf101eea6.webp ",
+          "price": 64.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Pizza 🍕",
+      "productItems": [
+        {
+          "name": "Hawaii Supreme Chicken and Turkey",
+          "description": "Turkey, chicken, green pepper, red and orange pepper mix, pineapple, sweet chilli sauce, sesame mix, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019342fb109975dbbc43ad46f78cb405.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "name": "Ranch Supreme Chicken and Turkey",
+          "description": "Turkey, chicken, ranch sauce, tomatoes, onions, garlic, mozzarella, paprika",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f54651407992a27bfe052fbb46ac.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Chicken Ranch",
+          "description": "Chicken, mushrooms, tomatoes, ranch sauce, garlic, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5de8a5cf329baab77c502aae3a.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "name": "Spicy Ranch",
+          "description": "Chicken, mushrooms, tomatoes, jalapenos, garlic, ranch sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f3d6200075958aa02e74c91bfd89.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "name": "Dodo Mix",
+          "description": "Four beloved tastes in one pizza: Cream Cheese Delight, Butter chicken, Hawaii Supreme Chicken and Turkey, beef pepperoni",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eedf20bc3db8c49530f41feea08ede.webp ",
+          "price": 52.0,
+          "ingredients": [
+            3,
+            8,
+            9,
+            1,
+            18
+          ]
+        },
+        {
+          "name": "Pepperoni",
+          "description": "Beef pepperoni, mozzarella, pizza sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5de6f9ab1c8aa30a7eeb3ad49d.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Double Pepperoni",
+          "description": "Double portion of beef pepperoni, mozzarella, pizza sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eedf1e89162d939b540f68e2738ef1.webp ",
+          "price": 32.0,
+          "ingredients": [
+            19,
+            16,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            20,
+            11,
+            9,
+            12
+          ]
+        },
+        {
+          "name": "Butter Chicken",
+          "description": "Butter chicken, makhani sauce, green pepper, onions, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f4128e2670cebf131e6f64fb1cfc.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Durian Musang King Delight ",
+          "description": "Superstar pizza of East Asia, loaded with sweet high grade elite Musang King - time to try something out of this world!",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef45da63d163c7aa0dc695f23338dd.webp ",
+          "price": 39.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Truffle Chicken and Mushroom",
+          "description": "Tender chicken and mushroom, topped with signature truffle sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef690c8f92ac47b396d09527c80361.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Truffle Pepperoni",
+          "description": "Bold twist of classic beef pepperoni pizza with extremely creamy black summer truffle sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef797e3a5e03b2ab2ea9bfd962d82d.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Cream Cheese Delight",
+          "description": "Cream cheese, tomatoes, parsley, mozzarella, pizza sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f8d0ef9873dfba48fe52b36b537d.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Only Veggies",
+          "description": "Tomatoes, green pepper, mushrooms, onions, black olives, dry oregano, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f3f26744706a8f1501dc4291d550.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Chicken Shawarma AI- generated pizza",
+          "description": "Shawarma chicken, tahini sauce, paneer, onions, tomato sauce, mozzarella, parsley",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5e00c119088320218ab516a9d7.webp ",
+          "price": 32.0,
+          "ingredients": [
+            8,
+            3,
+            19,
+            14,
+            1,
+            2,
+            5,
+            4,
+            6,
+            10,
+            12,
+            13,
+            15,
+            9,
+            16,
+            17,
+            11
+          ]
+        },
+        {
+          "name": "Chicken BBQ",
+          "description": "Chicken, mushrooms, onions, BBQ sauce, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5ddfbce728a3414a2eddf04f69.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Spicy BBQ",
+          "description": "Chicken, mushrooms, onions, jalapenos, BBQ sauce, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f8d7b8617196b3ca21f59b298f36.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Meat King Supreme",
+          "description": "Beef pepperoni, beef pastrami premium, beef bits, green pepper, onions, black olives,  pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5df107218a91f78ed21177b237.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Hawaii",
+          "description": "👶Turkey, pineapple, pizza sauce, мozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5de400c7e1973eda8b3f23b602.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Little Italy",
+          "description": "Beef pepperoni, beef bits, mushrooms, black olives, pizza sauce, mozzarella, dry oregano",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5defaf0d96b98ff1cb150f2b76.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Meat Lovers",
+          "description": "Beef pepperoni, turkey, chicken, beef bits, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5decddcabf98ff79e86618f3d6.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Margherita",
+          "description": "👶Mozzarella, pizza sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f3f7d3aa77f288e1890db2db81a7.webp ",
+          "price": 27.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Four Seasons",
+          "description": "Four classic flavors in one: Margherita, Chicken BBQ, Chicken Ranch, Pesto Chicken",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dfe81190c97810aebb4c23c9a.webp ",
+          "price": 52.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Chicken Cheddar",
+          "description": "👶Chicken, cream, tomatoes, cheddar, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dd797a4bab6fdae399b3669af.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Pesto Chicken",
+          "description": "Chicken, cream cheese, tomatoes, pesto sauce, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5de29b69a880d45a17c0e25f56.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Chicken and Mushroom  Pizza",
+          "description": "Chicken, mushrooms, black olives, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dd31ac29ba82dd3b0eb32ae1a.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Paneer Makhani",
+          "description": "Paneer, onions, tomatos, green pepper, makhani sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f3ed4cb078d78ff1c9c82db5b7de.webp ",
+          "price": 30.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Mexican Beef Pizza",
+          "description": "Beef pepperoni, beef cubes, jalapenos, paprika, parsley, pizza sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f41c704776e4bc09db4a8ed190f2.webp ",
+          "price": 32.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "name": "Create your own pizza",
+          "description": "Pizza sauce , mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eefdbb15904db392f2650681f99231.webp ",
+          "price": 27.0,
+          "ingredients": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pasta 🍝",
+      "productItems": [
+        {
+          "name": "Creamy Chicken Alfredo Pasta ",
+          "description": "Creamy fusilli pasta with grilled chicken, stretchy mozzarella and parmesan",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193ce2dd4a87474abf17f2b4b5e6506.webp ",
+          "price": 29.0,
+          "ingredients": []
+        },
+        {
+          "name": "Chicken Bolognese Pasta",
+          "description": "Fusilli pasta with chicken based bolognese, Italian tomato sauce, topped with stretchy creamy mozzarella and parmesan",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193ce28831d750f83ceda1f227444cd.webp ",
+          "price": 29.0,
+          "ingredients": []
+        },
+        {
+          "name": "Pesto Chicken Pasta",
+          "description": "Fusilli pasta with grilled chicken, fresh tomatoes, stretchy mozzarella, parmesan and pesto",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193ce32084a77f0b223f7a25229cdc8.webp ",
+          "price": 29.0,
+          "ingredients": []
+        },
+        {
+          "name": "Truffle Chicken & Mushroom Pasta",
+          "description": "Fusilli pasta, loaded with truffles cream sauce, chicken and mushrooms, topped with stretchy mozzarella and parmesan",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193ce347d9977689ff1a7430e92c895.webp ",
+          "price": 29.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Rice bowls 🍚",
+      "productItems": [
+        {
+          "name": "Cheesy Chicken strips rice bowl",
+          "description": "Rice bowl topped with chicken strips and stretchy mozzarella, full of vegetables with sweet chilli sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f42ddb977538b10cfcc9a58386e4.webp ",
+          "price": 29.0,
+          "ingredients": []
+        },
+        {
+          "name": "Cheesy Meaty BBQ rice bowl",
+          "description": "Meaty rice bowl with stretchy mozzarella and cheddar, full of chicken, turkey and smoked beef bits with BBQ sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019401f169f1795a8bd1647ccce15713.webp ",
+          "price": 29.0,
+          "ingredients": []
+        },
+        {
+          "name": "Cheesy Butter Chicken rice bowl",
+          "description": "Rice bowl loaded with stretchy mozzarella and butter chicken, makhani sauce and onions",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f42fb89d7221b2e4947c3a1d78e7.webp ",
+          "price": 29.0,
+          "ingredients": []
+        },
+        {
+          "name": "Chicken strips rice bowl",
+          "description": "Rice bowl topped with chicken strips, full of vegetables with sweet chilli sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f432081870c29e0b5af4375a6605.webp ",
+          "price": 25.0,
+          "ingredients": []
+        },
+        {
+          "name": "Meaty BBQ rice bowl",
+          "description": "Meaty rice bowl full of chicken, turkey and smoked beef bits with cheddar and BBQ sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/019401f30fa171de8945158f4e2f8a35.webp ",
+          "price": 25.0,
+          "ingredients": []
+        },
+        {
+          "name": "Butter Chicken Rice Bowl",
+          "description": "Rice bowl loaded with butter chicken, onions and makhani sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f4369cc2790a8c3561f29f5d2cba.webp ",
+          "price": 25.0,
+          "ingredients": []
+        },
+        {
+          "name": "Plain Rice",
+          "description": "Seasoned white rice",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193ce3795d8778199b5a8ae6960a572.webp ",
+          "price": 10.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Snacks 🍟",
+      "productItems": [
+        {
+          "name": "The Dodster Chicken Ranch wrap",
+          "description": "Tortilia, ranch sauce, chicken, tomatos, garlic, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796df00a0557abfe3c88b7bfc374.webp ",
+          "price": 23.0,
+          "ingredients": []
+        },
+        {
+          "name": "Spicy Dodster Chicken BBQ",
+          "description": "Tortilia, chicken, tomatos, jalapenos, bbq sauce, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f42765da78bf98fe88e10dd66b30.webp ",
+          "price": 23.0,
+          "ingredients": []
+        },
+        {
+          "name": "Truffle Chicken Dodster ",
+          "description": "Our legendary Dodster Wrap with chicken and truffle sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef690b12b37c428406669a6fa4019d.webp ",
+          "price": 25.0,
+          "ingredients": []
+        },
+        {
+          "name": "Potato Wedges",
+          "description": "Wedges",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef7112fad69f8a915a0293132043d7.webp ",
+          "price": 15.0,
+          "ingredients": []
+        },
+        {
+          "name": "Truffle Potato Wedges",
+          "description": "Classic wedges with truffle dip sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef690b2482bce998db2419b2978780.webp ",
+          "price": 17.0,
+          "ingredients": []
+        },
+        {
+          "name": "Sweet Chilli Chicken strips",
+          "description": "Chicken strips, sweet chilli sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f438c3ed72059d251780ade4228b.webp ",
+          "price": 22.0,
+          "ingredients": []
+        },
+        {
+          "name": "Ranch Chicken strips",
+          "description": "Ranch sauce, chicken strips",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef0deb68beee3baf033b680d07fe09.webp ",
+          "price": 22.0,
+          "ingredients": []
+        },
+        {
+          "name": "Garlic Chicken strips",
+          "description": "Chicken strips, garlic oil",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef0deb2e43fca19d5c98d765cf544b.webp ",
+          "price": 22.0,
+          "ingredients": []
+        },
+        {
+          "name": "Spicy Chicken Strips ",
+          "description": "Chicken strips, sriracha sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f43a735b701dafbd0e68699cdf7a.webp ",
+          "price": 22.0,
+          "ingredients": []
+        },
+        {
+          "name": "Original Chicken strips",
+          "description": "Chicken strips",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef0deb4aa6e92686535604308dc8c7.webp ",
+          "price": 22.0,
+          "ingredients": []
+        },
+        {
+          "name": "Sweet Chilli Wings",
+          "description": "Wings, sweet chilli sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f4401f0875e6a1090583128570e8.webp ",
+          "price": 26.0,
+          "ingredients": []
+        },
+        {
+          "name": " BBQ Wings",
+          "description": "Wings, bbq sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dfcbdbd52b7ab967b03315034.webp ",
+          "price": 26.0,
+          "ingredients": []
+        },
+        {
+          "name": "Spicy Wings",
+          "description": "Wings, sriracha sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f442deec71478486ab950d022ae1.webp ",
+          "price": 28.0,
+          "ingredients": []
+        },
+        {
+          "name": "Beetroot  salad",
+          "description": "Romaine salad, beetroot, pumpkin seeds, Sesame mix, Cream cheese, Balsamic glaze",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193f8dcd82b7220a380eba37e7a93ec.webp ",
+          "price": 25.0,
+          "ingredients": []
+        },
+        {
+          "name": "Chicken Ranch salad",
+          "description": "Chicken, romain salad, tomatos, red and orange pepper mix, black olives, cheddar, ranch sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796deeb22ac0a671be182e03fdc4.webp ",
+          "price": 25.0,
+          "ingredients": []
+        },
+        {
+          "name": "Cheddar Mozzarella sticks",
+          "description": "Cheddar, mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dfa4a3dceb357140cd6fa2275.webp ",
+          "price": 15.0,
+          "ingredients": []
+        },
+        {
+          "name": "Garlic Bread",
+          "description": "Mozzarella",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5df97f11d4bda2278838886315.webp ",
+          "price": 12.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Sauces🥫",
+      "productItems": [
+        {
+          "name": "Sweet chilli dip",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193498b671f71f8a13a5d35742e4957.webp ",
+          "price": 2.0,
+          "ingredients": []
+        },
+        {
+          "name": "BBQ dip",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796def08db2b8bfcecbdb24d23fa.webp ",
+          "price": 2.0,
+          "ingredients": []
+        },
+        {
+          "name": "Ranch dip",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796def5902bb82caf2b7c45b097a.webp ",
+          "price": 2.0,
+          "ingredients": []
+        },
+        {
+          "name": "Spicy sauce dip",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193498a05407708a4d3ed35926033e3.webp ",
+          "price": 2.0,
+          "ingredients": []
+        },
+        {
+          "name": "Truffle Mayo Dip",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef696bdd9860c6a590a9b454028fc7.webp ",
+          "price": 3.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Desserts 🍰",
+      "productItems": [
+        {
+          "name": "Snowflake Chocolate Rolls ",
+          "description": "Feel the magic of winter! Freshly baked rolls with Nutella and cream cheese, snowed under coconut flakes",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193962ddf8170d6a3b0608317cd429e.webp ",
+          "price": 16.0,
+          "ingredients": []
+        },
+        {
+          "name": "Caramel Cinnamon Rolls with Cream Cheese",
+          "description": "Freshly baked dessert rolls loaded with cream cheese, topped with caramel and cinnamon",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef637b8af31e6c8c2fe1f8784cd91e.webp ",
+          "price": 14.0,
+          "ingredients": []
+        },
+        {
+          "name": "Date Rolls with Cream Cheese",
+          "description": "Dodo special for Eid - freshly baked rolls loaded with dates, cream cheese and pistachio crumbs",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef39807aa5a97fbd1de6db94389804.webp ",
+          "price": 14.0,
+          "ingredients": []
+        },
+        {
+          "name": "Caramel Pancakes",
+          "description": "Freshly baked pancakes with cream cheese, caramel sauce and cookie crumbs",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef637e228f83c5ae3ea366e12cd308.webp ",
+          "price": 19.0,
+          "ingredients": []
+        },
+        {
+          "name": "Strawberry Pancakes",
+          "description": "Freshly baked pancakes with cream cheese, condensed milk, strawberry crumbs and sauce",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef637de76ee2af90b84dfc8fcf79f6.webp ",
+          "price": 19.0,
+          "ingredients": []
+        },
+        {
+          "name": "Classic Pancakes",
+          "description": "Forever classic — freshly baked buttery pancakes with cream cheese on top",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef637dcfc5b282b120d3090cab029e.webp ",
+          "price": 14.0,
+          "ingredients": []
+        },
+        {
+          "name": "New York Cheesecake",
+          "description": "creamy cheesecake with buttery cracker crust",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796df3782b92a9e395fe05277629.webp ",
+          "price": 19.0,
+          "ingredients": []
+        },
+        {
+          "name": "Chocolate Muffin",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796df0d8606196135c9bab240ee3.webp ",
+          "price": 13.0,
+          "ingredients": []
+        },
+        {
+          "name": "Vanilla Muffin",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796df090eeca96ca4dffe2019829.webp ",
+          "price": 13.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Drinks🥤",
+      "productItems": [
+        {
+          "name": "Coca-cola",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dfba9c1ad9654bc7e54f96f5f.webp ",
+          "price": 7.0,
+          "ingredients": []
+        },
+        {
+          "name": "Coca-cola Zero",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dff66c53e8022dd1b7bd7a984.webp ",
+          "price": 7.0,
+          "ingredients": []
+        },
+        {
+          "name": "Sprite",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dfbf75f1885f488c9f51be5a2.webp ",
+          "price": 7.0,
+          "ingredients": []
+        },
+        {
+          "name": "Fanta",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee7d5dfc45d64a9fbe532de600f645.webp ",
+          "price": 7.0,
+          "ingredients": []
+        },
+        {
+          "name": "Lipton Lemon Ice Tea",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eeb3e53e6cf40eb1787e7e47e6cf0a.webp ",
+          "price": 8.0,
+          "ingredients": []
+        },
+        {
+          "name": "Lipton Lemon Zero Ice Tea",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eeb3e6793d3aaf9999e74816f4f22a.webp ",
+          "price": 8.0,
+          "ingredients": []
+        },
+        {
+          "name": "Lipton Peach Ice Tea",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eeb3e7cff0cd9b96a1137c5919383d.webp ",
+          "price": 8.0,
+          "ingredients": []
+        },
+        {
+          "name": "Lipton Peach Zero Ice Tea ",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eeb3e77ada3913905d6be571a577ee.webp ",
+          "price": 8.0,
+          "ingredients": []
+        },
+        {
+          "name": "Water",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee796df152052f88ad7f696224ecc0.webp ",
+          "price": 5.0,
+          "ingredients": []
+        },
+        {
+          "name": "Orange Juice",
+          "description": "Orange juice",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193969d168b73c0b7838bc5d330cc49.webp ",
+          "price": 6.0,
+          "ingredients": []
+        },
+        {
+          "name": "Apple Juice",
+          "description": "",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/0193ab02066c723cbe7b1f9416b2fd07.webp ",
+          "price": 6.0,
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "name": "Dodo merch 🛍",
+      "productItems": [
+        {
+          "name": "Truffled Bucket Hat ",
+          "description": "Limited edition, 100% cotton, and unique stylish pattern. A must-have accessory for Dubai sun—grab yours before it’s gone!",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef9201dc895ce1b3de0c06f63dfe8f.webp ",
+          "price": 98.0,
+          "ingredients": []
+        },
+        {
+          "name": "Dodo Bird Toy",
+          "description": "Meet our cuddly plush Dodo bird toy! Soft, vibrant, and durable, it's the perfect 25 cm tall companion for fun adventures.",
+          "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef3b0a65571851962b2b853ac8757d.webp ",
+          "price": 89.0,
+          "ingredients": []
+        }
+      ]
+    }
+  ]
+}
