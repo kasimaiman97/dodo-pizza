@@ -1,12 +1,12 @@
 import React from 'react';
 import { WhiteBlock } from './white-block';
-import { CheckoutItemDetails } from './checkout-item-details';
+import { CheckoutItemDetails } from '@/shared/components';
 import { ArrowRight, Package, Percent, Truck } from 'lucide-react';
 import { Button, Skeleton } from '../ui';
 import { cn } from '@/shared/lib/utils';
 
-const VAT = 15;
-const DELIVERY_PRICE = 9;
+const VAT = 0.5;
+const DELIVERY_PRICE = 5;
 
 interface Props {
     totalAmount: number;

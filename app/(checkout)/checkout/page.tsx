@@ -17,7 +17,6 @@ import {createOrder} from '@/app/actions';
 import toast from 'react-hot-toast';
 import React from 'react';
 import {CheckoutPaymentForm} from "@/shared/components/shared/checkout/checkout-payment-form";
-import {redirect} from "next/navigation";
 
 
 export interface CardType {
