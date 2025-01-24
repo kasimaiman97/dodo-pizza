@@ -72,7 +72,7 @@ export default function CheckoutPage() {
                 setPaymentMethodError('Please provide a payment method to complete the payment process.')
                 setSubmitting(false);
                 return;
-            }else {
+            } else {
                 setPaymentMethodError('')
             }
 
@@ -86,8 +86,7 @@ export default function CheckoutPage() {
             toast.error('Failed to create order.', {
                 icon: '❌',
             });
-        }
-        finally {
+        } finally {
             setSubmitting(false);
         }
     };
@@ -116,6 +115,7 @@ export default function CheckoutPage() {
                             />
 
                             <CheckoutPersonalForm className={loading ? 'opacity-40 pointer-events-none' : ''}/>
+
 
                             <CheckoutAddressForm className={loading ? 'opacity-40 pointer-events-none' : ''}/>
                             <CheckoutPaymentForm

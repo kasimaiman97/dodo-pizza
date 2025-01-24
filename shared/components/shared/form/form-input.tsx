@@ -1,5 +1,6 @@
 'use client';
 
+import React, { forwardRef } from 'react';
 import { useFormContext } from 'react-hook-form';
 import { Input } from '../../ui/input';
 import { ClearButton } from '../clear-button';

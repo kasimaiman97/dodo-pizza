@@ -68,15 +68,15 @@ export async function createOrder({data, cardData}: createOrderProps) {
       },
     });
 
-    // /* Очищаем корзину */
-    // await prisma.cart.update({
-    //   where: {
-    //     id: userCart.id,
-    //   },
-    //   data: {
-    //     totalAmount: 0,
-    //   },
-    // });
+    /* Очищаем корзину */
+    await prisma.cart.update({
+      where: {
+        id: userCart.id,
+      },
+      data: {
+        totalAmount: 0,
+      },
+    });
 
     await prisma.cartItem.deleteMany({
       where: {

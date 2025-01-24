@@ -3,9 +3,9 @@
 import {Dialog, DialogContent} from '@/shared/components/ui/dialog';
 import {cn} from '@/shared/lib/utils';
 import React from 'react';
-import {FormInput, FormTextarea} from '../form';
+import {FormPaymentInput} from '../form';
 import {AmericanExpress, Button, ErrorText, MasterCard, Title, Visa} from "@/shared/components";
-import {FormProvider, useForm} from "react-hook-form";
+import {FormProvider, useForm, useFormContext} from "react-hook-form";
 import {cardFormSchema, CardFormValues} from "@/shared/constants";
 import {zodResolver} from "@hookform/resolvers/zod";
 
@@ -15,6 +15,23 @@ interface Props {
     onClose: () => void;
     setCurrentCart: (data: CardFormValues) => void;
 }
+
+function ErrorCase() {
+    const {
+        formState: { errors },
+    } = useFormContext();
+    const mapping = new Map(Object.entries(errors));
+    return (
+        <>
+            {mapping.size > 0 &&
+                Array.from(mapping).map(([key, error]) => (
+                    <ErrorText key={key} text={error?.message as string} className="mt-2 text-center" />
+                ))
+            }
+        </>
+    );
+}
+
 
 export const AddCardModal: React.FC<Props> = ({open, onClose, setCurrentCart}) => {
     const [loading, setLoading] = React.useState(false);
@@ -75,21 +92,23 @@ export const AddCardModal: React.FC<Props> = ({open, onClose, setCurrentCart}) =
                     <FormProvider {...form}>
                         <form onSubmit={form.handleSubmit(onSubmit)} >
                             <div className="card flex-col rounded-md shadow-sm p-3 bg-white border border-gray-300">
-                                <FormInput
-                                    style={{borderStyle: 'none'}}
+                                <FormPaymentInput
+                                    style={{ borderStyle: 'none' }}
+                                    maxLength={19}
                                     name="cardNumber"
                                     className="text-base border-none sm:h-12"
                                     placeholder="4321 1234 5678 8753"
                                 />
+
                                 <div className="flex flex-row gap-5 mt-3">
-                                    <FormInput
+                                    <FormPaymentInput
                                         style={customStyle}
                                         name="cardExp"
                                         className="text-base border-none sm:h-12"
                                         placeholder="MM/YY"
                                         maxLength={5}
                                     />
-                                    <FormInput
+                                    <FormPaymentInput
                                         style={customStyle}
                                         name="cardCode"
                                         className="text-base border-none sm:h-12"
@@ -97,13 +116,16 @@ export const AddCardModal: React.FC<Props> = ({open, onClose, setCurrentCart}) =
                                         maxLength={4}
                                     />
                                 </div>
-                                <FormInput
+
+                                <FormPaymentInput
                                     style={customStyle}
                                     name="cardHolder"
                                     className="text-base pt-5"
                                     placeholder="Card Holder Name"
                                 />
                             </div>
+
+                            <ErrorCase/>
 
                             <Button
                                 loading={loading}

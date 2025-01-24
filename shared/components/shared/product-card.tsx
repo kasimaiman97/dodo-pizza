@@ -3,16 +3,16 @@ import React from 'react';
 import {Title} from './title';
 import {Button} from '../ui';
 import {Plus} from 'lucide-react';
-import {Ingredient} from '@prisma/client';
 import {calcDiscount} from "@/shared/lib/calc-discount";
+import {ProductDescription} from "@/shared/components";
 
 interface Props {
     id: number;
     name: string;
     price: number;
     imageUrl: string;
-    ingredients: Ingredient[];
     className?: string;
+    description: string;
 }
 
 export const ProductCard: React.FC<Props> = ({
@@ -20,7 +20,7 @@ export const ProductCard: React.FC<Props> = ({
                                                  name,
                                                  price,
                                                  imageUrl,
-                                                 ingredients,
+                                                 description,
                                                  className,
                                              }) => {
 
@@ -55,10 +55,12 @@ export const ProductCard: React.FC<Props> = ({
                 {/* Product Title */}
                 <Title text={name} size="sm" className="mb-1 mt-3 font-bold"/>
 
-                {/* Ingredients */}
-                <p className="text-sm text-gray-400">
-                    {ingredients.map((ingredient) => ingredient.name).join(', ')}
-                </p>
+                {/*/!* Ingredients *!/*/}
+                {/*<p className="text-sm text-gray-400">*/}
+                {/*    {description}*/}
+                {/*</p>*/}
+
+                <ProductDescription description={description} />
 
                 <div className="flex justify-between items-center mt-4">
                     {/* Price and Skeleton Loader */}

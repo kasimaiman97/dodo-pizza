@@ -50,6 +50,7 @@ export const ProductForm: React.FC<Props> = ({ product, onSubmit: _onSubmit }) =
 
   return (
     <ChooseProductForm
+      description={product.description}
       imageUrl={product.imageUrl}
       name={product.name}
       onSubmit={onSubmit}

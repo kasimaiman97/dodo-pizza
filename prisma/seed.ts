@@ -39,6 +39,7 @@ async function up() {
                 products: {
                     create: category_obj.productItems.map((productItemData: any) => ({
                         name: productItemData.name,
+                        description: productItemData.description,
                         imageUrl: productItemData.imageUrl,
                         items: category_obj.name === "Pizza 🍕" ? {
                             createMany: {

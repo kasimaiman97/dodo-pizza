@@ -18,7 +18,7 @@ export async function createPayment(details: Props) {
             currency: 'AED',
 
             cardholder_name: details.cardData.cardHolder,
-            card_number: details.cardData.cardNumber,
+            card_number: details.cardData.cardNumber.replace(/\s/g, ''),
             card_expiry_date: details.cardData.cardExp,
             card_cvv: details.cardData.cardCode,
 
