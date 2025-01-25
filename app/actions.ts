@@ -69,20 +69,20 @@ export async function createOrder({data, cardData}: createOrderProps) {
     });
 
     /* Очищаем корзину */
-    await prisma.cart.update({
-      where: {
-        id: userCart.id,
-      },
-      data: {
-        totalAmount: 0,
-      },
-    });
+    // await prisma.cart.update({
+    //   where: {
+    //     id: userCart.id,
+    //   },
+    //   data: {
+    //     totalAmount: 0,
+    //   },
+    // });
 
-    await prisma.cartItem.deleteMany({
-      where: {
-        cartId: userCart.id,
-      },
-    });
+    // await prisma.cartItem.deleteMany({
+    //   where: {
+    //     cartId: userCart.id,
+    //   },
+    // });
 
     const paymentData = await createPayment({
       cardData: cardData,
