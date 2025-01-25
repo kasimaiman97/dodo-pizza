@@ -6,7 +6,7 @@ export const checkoutFormSchema = z.object({
     comment: z.string().optional(),
 
     buildingName: z.string().min(5, {message: 'Please enter a valid building name'}),
-    roomNumber: z.string().min(5, {message: 'Please enter a valid room number'}),
+    roomNumber: z.string().min(2, {message: 'Please enter a valid room number'}),
     street: z.string().min(5, {message: 'Please enter a valid street'}),
     community: z.string().min(5, {message: 'Please enter a valid community'}),
 });
